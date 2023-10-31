@@ -1,0 +1,32 @@
+.logo_despre {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 15%;
+}
+
+div.text_box_despre {
+    width: auto;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: none;
+    font-size: 120%;
+    display: flex;
+    flex-direction: row;
+    height: 420px;
+    margin-top: -30px;
+    text-align: inherit;
+    align-items: center;
+}
+
+.navbar_despre {
+    margin-top: -30px;
+    height: auto;
+    text-align: center;
+    font-size: 270%;
+}
+
+.nav_text {
+    text-align: center;
+}

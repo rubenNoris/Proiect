@@ -1,0 +1,91 @@
+.logo_despre {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 12%;
+}
+
+div.text_box_despre {
+    width: 320px;
+    height: 200px;
+    margin-left: 40px;
+    border: none;
+    font-size: 120%;
+    text-align: inherit;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 420px;
+    margin-top: -30px;
+}
+
+.navbar_despre {
+    margin-top: -30px;
+    height: auto;
+    text-align: center;
+    font-size: 270%;
+}
+
+.nav_description {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 580px;
+    padding: 10px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.card_responsive {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.862), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 30px;
+    height: 250px;
+    width: 150px;
+    background-color: white;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+    align-items: center;
+    text-align: center;
+    max-width: 50%;
+    height: 200px;
+}
+
+div.container_style {
+    text-align: center;
+    padding: 0px;
+    margin-top: -30px;
+}
+
+.client-wrapper_style {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 32px;
+}
+
+img.img2 {
+    object-fit: cover;
+    width: 400px;
+    height: 330px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.style_button {
+    font-size: 28px;
+    border-bottom: 2px;
+    background-color: transparent;
+    height: 55px;
+    font-family: 'Rubik';
+    font-weight: lighter;
+}

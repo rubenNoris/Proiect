@@ -1,0 +1,115 @@
+.rezervare {
+    text-align: center;
+}
+
+.logo_despre {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 15%;
+}
+
+.navbar_despre {
+    margin-top: -30px;
+    height: auto;
+    text-align: center;
+    font-size: 270%;
+}
+
+.nav_stil_rezervation {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card_stil_rezervation {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    width: 500px;
+    background-color: transparent;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: 130%;
+    font-family: 'Rubik';
+    max-width: 100%;
+    height: 70px;
+    align-items: center;
+    padding-left: 10px;
+}
+
+img.pole_r {
+    object-fit: cover;
+    width: 10%;
+    height: 50px;
+}
+
+img.frf_r {
+    object-fit: cover;
+    width: 10%;
+    height: 50px;
+}
+
+img.mdr_r {
+    object-fit: cover;
+    width: 10%;
+    height: 50px;
+}
+
+.margin {
+    margin-left: 100px;
+}
+
+.clear {
+    height: 350px;
+}
+
+.clear2 {
+    height: 220px;
+}
+
+.rezervation_r {
+    display: flex;
+    font-family: 'Rubik';
+    font-size: 24px;
+    text-align: center;
+}
+
+.nav_rezervation_r {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    font-family: 'Rubik';
+    text-align: center;
+    align-items: center;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+
+.numar_tel {
+    font-size: 190%;
+    margin-top: -22px;
+    height: 40px;
+}
+
+.call {
+    margin-top: 45px;
+    width: 60%;
+    height: 30%;
+    background-color: rgb(178, 183, 215);
+    border-radius: 65px;
+    margin-bottom: 20px;
+}
+
+p.p {
+    font-size: 28px;
+}
+
+hr {
+    color: black;
+    width: 100%;
+    height: 2px;
+}
